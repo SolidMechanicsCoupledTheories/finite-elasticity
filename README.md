@@ -14,6 +14,6 @@ Alternatively, you can run any FEniCS *.py code hosted publicly on GitHub by fol
 
 If you use these codes in your own research, cite both of the following:
 
-E. M. Stewart and L. Anand, Finite Elasticity Example Codes (2023). GitHub Repository, https://github.com/SolidMechanicsCoupledTheories/finite-elasticity.
+E. Stewart and L. Anand. Finite elasticity example codes, 2023. URL https://github.com/SolidMechanicsCoupledTheories/finite-elasticity.
 
-L. Anand, _Introduction to coupled theories in solid mechanics_ [book in preparation] (2023).
+L. Anand. _Introduction to coupled theories in solid mechanics_. 2023, in preparation.
